@@ -1,4 +1,4 @@
-*{
+**{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,7 +11,7 @@ body {
 
 .Form-registro {
     width: 400px;
-    background: #24303c;
+    background: #000000;
     padding: 30px;
     margin: auto;
     margin-top: 100px;
@@ -30,7 +30,7 @@ body {
 
 .Controls {
     width: 100%;
-    background: #24303c;
+    background: #00c2fd;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
@@ -61,7 +61,7 @@ body {
 
 .botones {
     width: 100%;
-    background: #e9004e;
+    background: #00e913;
     border: none;
     padding: 12px;
     color: white;
